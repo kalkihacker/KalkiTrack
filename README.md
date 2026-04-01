@@ -59,7 +59,7 @@ The crown jewel of v3.0. The Pivot Hub captures every identifier found during yo
 ```bash
 sudo apt update && sudo apt install git python3 python3-pip -y
 git clone https://github.com/kalkihacker/KalkiTrack.git
-cd GhostTrack
+cd KalkiTrack
 pip install -r requirements.txt
 python KalkiTrack.py
 ```
@@ -68,7 +68,7 @@ python KalkiTrack.py
 ```bash
 pkg update && pkg install git python python-pip -y
 git clone https://github.com/kalkihacker/KalkiTrack.git
-cd GhostTrack
+cd KalkiTrack
 pip install -r requirements.txt
 python KalkiTrack.py
 ```
